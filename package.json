@@ -28,7 +28,7 @@
   },
   "build": {
     "appId": "com.animeflix.app",
-    "productName": "AnimeFlix",
+    "productName": "AnimeView",
     "files": [
       "dist/**/*",
       "electron.cjs",
